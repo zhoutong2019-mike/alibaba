@@ -3,5 +3,6 @@ public class Boss{
 	private String name ;
 	private Integer id ;
 	private Classes classes ;
-	private Student stu ;
+	//private Student stu ;
+	private Employee emp ;
 	}
