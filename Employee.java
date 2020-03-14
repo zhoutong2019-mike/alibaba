@@ -3,6 +3,6 @@ public class Employee {
 	private Date birthday ;
 	private Classes classes ;
 
-        public void eat {
-        }
+	public String eat (){}
+
 	}
